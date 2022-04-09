@@ -1,0 +1,12 @@
+{
+  "name": "Cowpoly #0",
+  "tokenID": 0,
+  "description": "Cowpoly is an experimental NFT collection created for educational purpose only. Credits for all artwork go to original creators.",
+  "image": "https://github.com/eddiekaung/cowpolyNFT/raw/main/images/0.jpg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Cow"
+    }
+  ]
+}
